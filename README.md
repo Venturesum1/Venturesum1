@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Microsoft Azure**
 
-- 👨‍💻 All of my projects are available at [soumyasis.devfolio.io](soumyasis.devfolio.io)
+- 👨‍💻 All of my projects are available at [https://soumyasis.devfolio.io/](https://soumyasis.devfolio.io/)
 
 - 💬 Ask me about **C++ Github**
 
