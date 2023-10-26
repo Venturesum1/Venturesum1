@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venturesum1" alt="venturesum1" /></a> </p>
 <img align="right" alt="Coding" width="100" src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif">
-<img align="right" alt="Coding" width="100"  height="100"src="https://www.gifcen.com/wp-content/uploads/2023/09/hacker-gif-8.gif">
+<img align="right" alt="Coding" width="200"  height="100"src="https://www.gifcen.com/wp-content/uploads/2023/09/hacker-gif-8.gif">
 
 - 🔭 I’m currently working on **Docstop**
 
