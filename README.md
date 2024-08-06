@@ -7,9 +7,9 @@
 <img align="right" alt="Coding" width="100" src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif">
 <img align="right" alt="Coding" width="200"  height="100"src="https://www.gifcen.com/wp-content/uploads/2023/09/hacker-gif-8.gif">
 
-- 🔭 I’m currently working on **Docstop**
+- 🔭 I’m currently working on **Meddo Health**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Angular JS**
 
 - 👯 I’m looking to collaborate on **Microsoft Azure**
 
