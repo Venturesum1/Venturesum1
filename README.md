@@ -15,8 +15,7 @@
 ---
 
 ### 🔭 I’m currently working on:
-- Meddo Health Platform improvements
-- AI Image SaaS Tool – soumify
+-working with own Beyourloop
 
 ### 🌱 I’m currently learning:
 - Angular JS & Azure Cloud
