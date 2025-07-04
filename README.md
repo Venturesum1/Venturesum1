@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Software+Engineer+Intern+%40+Foxy;Full+Stack+Developer+(React%2FNode);Problem+Solver+%7C+Tech+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer+(React%2FNode);Problem+Solver+%7C+Tech+Enthusiast" />
 </p>
 
 ---
