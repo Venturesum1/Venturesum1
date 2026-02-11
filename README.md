@@ -96,4 +96,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer"/>
 </p>
-![](./profile-green-dual.svg)
+![](profile-green-dual.svg)
