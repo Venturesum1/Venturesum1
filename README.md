@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=venturesum1&label=Profile%20views&color=0e75b6&style=flat" alt="venturesum1" />
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=venturesum1&theme=onedark&row=1&column=6" alt="GitHub Trophies"/>
+    <!-- <img src="https://github-profile-trophy.vercel.app/?username=venturesum1&theme=onedark&row=1&column=6" alt="GitHub Trophies"/> -->
   </a>
 </p>
 
